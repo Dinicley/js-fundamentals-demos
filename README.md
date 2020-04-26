@@ -1,3 +1,2 @@
 # js-fundamentals-demos
-JS Fundamentals Demos 
-Dinicley Alves
+JS Fundamentals Demos
